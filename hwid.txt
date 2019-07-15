@@ -1,1 +1,8 @@
-
+{
+version : '1.0',
+downloadLink: 'https://github.com/Veczz/FiveTap/raw/master/FiveTap.dll',
+Message : '1.0',
+ChangeLog : '',
+isClose : 'true',
+filename : 'FiveTapCheat.exe'
+}
